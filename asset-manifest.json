@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.083a3bc6.chunk.css",
-    "main.js": "/static/js/main.db561bf1.chunk.js",
-    "main.js.map": "/static/js/main.db561bf1.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d5263075.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d5263075.js.map",
-    "static/js/2.228b3f2d.chunk.js": "/static/js/2.228b3f2d.chunk.js",
-    "static/js/2.228b3f2d.chunk.js.map": "/static/js/2.228b3f2d.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.083a3bc6.chunk.css.map": "/static/css/main.083a3bc6.chunk.css.map",
-    "static/js/2.228b3f2d.chunk.js.LICENSE.txt": "/static/js/2.228b3f2d.chunk.js.LICENSE.txt"
+    "main.css": "/supreme-barnacle/static/css/main.083a3bc6.chunk.css",
+    "main.js": "/supreme-barnacle/static/js/main.db561bf1.chunk.js",
+    "main.js.map": "/supreme-barnacle/static/js/main.db561bf1.chunk.js.map",
+    "runtime-main.js": "/supreme-barnacle/static/js/runtime-main.aba61c40.js",
+    "runtime-main.js.map": "/supreme-barnacle/static/js/runtime-main.aba61c40.js.map",
+    "static/js/2.228b3f2d.chunk.js": "/supreme-barnacle/static/js/2.228b3f2d.chunk.js",
+    "static/js/2.228b3f2d.chunk.js.map": "/supreme-barnacle/static/js/2.228b3f2d.chunk.js.map",
+    "index.html": "/supreme-barnacle/index.html",
+    "static/css/main.083a3bc6.chunk.css.map": "/supreme-barnacle/static/css/main.083a3bc6.chunk.css.map",
+    "static/js/2.228b3f2d.chunk.js.LICENSE.txt": "/supreme-barnacle/static/js/2.228b3f2d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d5263075.js",
+    "static/js/runtime-main.aba61c40.js",
     "static/js/2.228b3f2d.chunk.js",
     "static/css/main.083a3bc6.chunk.css",
     "static/js/main.db561bf1.chunk.js"
